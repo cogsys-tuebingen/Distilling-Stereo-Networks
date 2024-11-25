@@ -1,0 +1,5 @@
+training/image_2/000160_10.png training/image_3/000160_10.png training/disp_occ_0/000160_10.png
+training/image_2/000009_10.png training/image_3/000009_10.png training/disp_occ_0/000009_10.png
+training/image_2/000137_10.png training/image_3/000137_10.png training/disp_occ_0/000137_10.png
+training/image_2/000087_10.png training/image_3/000087_10.png training/disp_occ_0/000087_10.png
+training/image_2/000150_10.png training/image_3/000150_10.png training/disp_occ_0/000150_10.png
